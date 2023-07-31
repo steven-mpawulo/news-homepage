@@ -7,6 +7,7 @@ const Header = () => {
     <header>
         <div className='header'>
         <img src={Logo} alt="logo" className='logo' />
+        <nav>
         <ul>
             <li>Home</li>
             <li>New</li>
@@ -14,6 +15,7 @@ const Header = () => {
             <li>Trending</li>
             <li>Categories</li>
         </ul>
+        </nav>
     </div>
     </header>
   )
