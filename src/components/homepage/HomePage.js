@@ -1,10 +1,11 @@
 import React from 'react'
 import Header from './Header'
 import Main from './Main'
+import './homepage.css'
 
 const HomePage = () => {
   return (
-    <div>
+    <div className='homepage-container'>
         <Header/>
         <Main/>
     </div>

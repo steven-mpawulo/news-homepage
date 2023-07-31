@@ -1,3 +1,64 @@
 .main {
     display: flex;
+    width: 100%;
+}
+
+.right-side-container {
+    width: 30%;
+    background-color: black;
+    padding: 2%;
+}
+h1 {
+    color: hsl(35, 77%, 62%);
+}
+
+h2 {
+    color: white;
+}
+p {
+    color: hsl(236, 13%, 42%);
+}
+
+.image-web{
+    width: 100%;
+}
+.left-side-container {
+    width: 60%;
+    margin-right: 20px;
+}
+
+.inner-container {
+    display: flex;
+    align-items: flex-start;
+}
+.bright-text {
+    color: black;
+    font-size: 40px;
+    font-size: bold;
+    margin-top: 0;
+}
+
+.web3-text {
+    font-size: 20px;
+    color: hsl(236, 13%, 42%);
+    margin-top: 5px;
+}
+
+.first-container {
+    width: 30%;
+}
+.second-container {
+    width: 70%;
+}
+
+button {
+    background-color: hsl(5, 85%, 63%);
+    color: white;
+    width: 40%;
+    height: 40px;
+    border: none;
+}
+
+button:hover{
+    background-color: black;
 }

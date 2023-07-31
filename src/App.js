@@ -2,9 +2,9 @@ import HomePage from "./components/homepage/HomePage";
 
 function App() {
   return (
-    <div>
-      <HomePage/>
-    </div>
+    <>
+    <HomePage/>
+    </>
   );
 }
 
