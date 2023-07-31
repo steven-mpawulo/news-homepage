@@ -3,6 +3,10 @@
     width: 100%;
 }
 
+.logo {
+    height: 20%;
+}
+
 ul {
     display: flex;
     margin-left: 50%;
