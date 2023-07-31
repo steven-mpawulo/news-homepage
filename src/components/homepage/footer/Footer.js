@@ -1,8 +1,8 @@
 import React from 'react'
 import ItemCard from '../../common/item_card/ItemCard'
-import Retro from '../../images/image-retro-pcs.jpg'
-import Laptop from '../../images/image-top-laptops.jpg'
-import Games from '../../images/image-gaming-growth.jpg'
+import Retro from '../../../images/image-retro-pcs.jpg'
+import Laptop from '../../../images/image-top-laptops.jpg'
+import Games from '../../../images/image-gaming-growth.jpg'
 import './footer.css'
 
 const Footer = () => {

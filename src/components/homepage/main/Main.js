@@ -1,5 +1,5 @@
 import React from 'react'
-import ImageDesktop from '../../images/image-web-3-desktop.jpg'
+import ImageDesktop from '../../../images/image-web-3-desktop.jpg'
 import './main.css'
 
 const Main = () => {
