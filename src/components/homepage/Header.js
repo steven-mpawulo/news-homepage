@@ -3,7 +3,8 @@ import Logo from '../../images/logo.svg'
 
 const Header = () => {
   return (
-    <div className='header'>
+    <header>
+        <div className='header'>
         <img src={Logo} alt="logo" />
         <ul>
             <li>Home</li>
@@ -13,6 +14,7 @@ const Header = () => {
             <li>Categories</li>
         </ul>
     </div>
+    </header>
   )
 }
 
