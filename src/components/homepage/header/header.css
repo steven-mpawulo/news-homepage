@@ -2,12 +2,16 @@
     display: flex;
     width: 100%;
     align-items: center;
+    margin-top: 0;
 }
 
 .logo {
     height: 20%;
 }
 
+nav {
+    width: 100%;
+}
 ul {
     display: flex;
     margin-left: 50%;
