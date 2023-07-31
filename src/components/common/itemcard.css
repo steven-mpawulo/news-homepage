@@ -1,3 +1,27 @@
 .item-card {
     display: flex;
+    width: 35%;
+
+}
+
+
+
+.image {
+    height: 50%;
+    margin-right: 10px;
+}
+
+.item-inner-container {
+    margin-top: 0.0;
+}
+
+.number {
+    color: hsl(236, 13%, 42%);
+    font-size: 20px;
+    margin-top: 0.0;
+}
+
+.title {
+    font-weight: bold;
+    color: hsl(240, 100%, 5%);
 }
