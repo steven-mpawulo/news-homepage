@@ -1,10 +1,12 @@
 .main {
     display: flex;
     width: 100%;
+    margin-bottom: 3%;
 }
 
 .right-side-container {
     width: 30%;
+    height: 100%;
     background-color: black;
     padding: 2%;
 }
@@ -25,6 +27,7 @@ p {
 .left-side-container {
     width: 60%;
     margin-right: 20px;
+    height: 100%;
 }
 
 .inner-container {
