@@ -1,4 +1,5 @@
 import React from 'react'
+import './itemcard.css'
 
 const ItemCard = ({image, number, title, message}) => {
   return (
